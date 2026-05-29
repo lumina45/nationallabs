@@ -1,0 +1,6 @@
+{
+  "name": "CivicAI Core",
+  "description": "Centralized platform linking university students across academic faculties to solve critical social problems by creating new types of AI-powered jobs, backed by federal and state resource sharing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
